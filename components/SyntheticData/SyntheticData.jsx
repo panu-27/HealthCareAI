@@ -2,10 +2,10 @@
 import React from 'react';
 
 const syntheticData = [
-  { id: 1, patientName: 'John Doe', diagnosis: 'Hypertension', date: '2024-10-01' },
-  { id: 2, patientName: 'Jane Smith', diagnosis: 'Diabetes', date: '2024-10-02' },
-  { id: 3, patientName: 'Alice Johnson', diagnosis: 'Asthma', date: '2024-10-03' },
-  { id: 4, patientName: 'Bob Brown', diagnosis: 'Anxiety', date: '2024-10-04' },
+  { id: 1, patientName: 'Pranav', diagnosis: 'Hypertension', date: '2024-10-01' },
+  { id: 2, patientName: 'Om', diagnosis: 'Diabetes', date: '2024-10-02' },
+  { id: 3, patientName: 'Siddhesh', diagnosis: 'Asthma', date: '2024-10-03' },
+  { id: 4, patientName: 'Rohan', diagnosis: 'Anxiety', date: '2024-10-04' },
 ];
 
 const SyntheticData = () => {
